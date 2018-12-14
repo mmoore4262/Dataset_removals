@@ -1,4 +1,4 @@
-
+//Runner I guess?
 package sample;
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -11,9 +11,10 @@ import java.util.List;
 
 public class CSVReader {
 
-    public static void main(String... args)
+    public static void main(String[] args)
     {
         List<Book> books = readBooksFromCSV("books.txt");
+
 
         // let's print all the person read from CSV file
         for (Book b : books) {
@@ -67,10 +68,10 @@ public class CSVReader {
         return new Book(agency, dataSet, rFR);
     }
 
-    public List<String> getColumnHeaders()
+    /*public List<String> getColumnHeaders()
     {
 
-    }
+    }*/
 
 }
 

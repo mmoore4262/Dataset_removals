@@ -1,0 +1,98 @@
+Agency,Dataset Name,Reason for Removal
+Department for the Aging (DFTA),Aging Services,This data has been incorporated in the currently published DFTA Contracts dataset
+Department of City Planning (DCP),Selected Facilities and Program Sites: Access,Dataset was replaced by Facilities Database - https://data.cityofnewyork.us/City-Government/Facilities-Database/ji82-xba5
+Department of City Planning (DCP),Selected Facilities and Program Sites: Text,Dataset was replaced by Facilities Database - https://data.cityofnewyork.us/City-Government/Facilities-Database/ji82-xba5
+Department of Consumer Affairs (DCA),Electronics Stores,Licensed Electronic Stores are listed as one of the business categories within DCA’s Legally Operating Businesses dataset
+Department of Design and Construction (DDC),Employment Opportunities,Data is contained in the NYC Jobs dataset
+Department of Design and Construction (DDC),Directory of Future Construction Projects,Data is available as part of active Infrastructure/ Public Buildings Projects
+Department of Finance (DOF),Open Balance (Manhattan),This dataset was created as a test file in 2009 for testing purposes (to verify FTP process and file integrity). It may or may not reflect real data. It was never intended for general public use. 
+Department of Finance (DOF),Open Balance (Brooklyn),This dataset was created as test files in 2009 for testing purposes (to verify FTP process and file integrity). It may or may not reflect real data. It was never intended for general public use. 
+Department of Finance (DOF),Open Balance (Queens),This dataset was created as test files in 2009 for testing purposes (to verify FTP process and file integrity). It may or may not reflect real data. It was never intended for general public use. 
+Department of Finance (DOF),Open Balance (Bronx),This dataset was created as test files in 2009 for testing purposes (to verify FTP process and file integrity). It may or may not reflect real data. It was never intended for general public use. 
+Department of Finance (DOF),Open Balance (Staten Island),This dataset was created as test files in 2009 for testing purposes (to verify FTP process and file integrity). It may or may not reflect real data. It was never intended for general public use. 
+Department of Parks and Recreation (DPR),Map of Soccer and Football Fields,This is a subset of the Athletic Facilities dataset
+Department of Probation (DOP),Office Disposition - Type Contact,Asset is a duplicate of an already existing dataset
+Department of Probation (DOP),Office Locations                ,Asset is a duplicate of an already existing dataset
+Department of Probation (DOP),Directory Of DOP Family & Adult Court Contact Information         ,Asset is a duplicate of an already existing dataset
+Mayor's Office to Combat Domestic Violence (OCDV),"Directory of Counseling, Advocacy and Other Services",Dataset replaced by -  https://data.cityofnewyork.us/Social-Services/Mayor-s-Office-to-Combat-Domestic-Violence-Resourc/2fws-68t6
+Mayor's Office to Combat Domestic Violence (OCDV),Directory of City Resources,Dataset replaced by -  https://data.cityofnewyork.us/Social-Services/Mayor-s-Office-to-Combat-Domestic-Violence-Resourc/2fws-68t6
+Mayor's Office to Combat Domestic Violence (OCDV),Directory of Hospitals with Domestic Violence Coordinators,Dataset replaced by -  https://data.cityofnewyork.us/Social-Services/Mayor-s-Office-to-Combat-Domestic-Violence-Resourc/2fws-68t6
+Mayor's Office to Combat Domestic Violence (OCDV),Directory of Service Hotlines,Dataset replaced by -  https://data.cityofnewyork.us/Social-Services/Mayor-s-Office-to-Combat-Domestic-Violence-Resourc/2fws-68t6
+Taxi and Limousine Commission (TLC),Black Car Services - Bases,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Black Car Services - Vehicles,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Community Car Service Vehicles,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Community Car Services (Livery) - Bases,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Community Car Services (Livery) - Vehicles,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Current Medallion Drivers,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Current Medallions,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),For-Hire-Vehicle (FHV) Drivers,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Group Ride Vehicle Pilot Program - Bases,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Group Ride Vehicle Pilot Program - Drivers,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Group Ride Vehicle Pilot Program - Vehicles,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Luxury Limousine Services - Bases,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Luxury Limousine Services - Vehicles,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Luxury Limousine Vehicles,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Medallion Drivers,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Medallion Drivers – Passenger Assistance Trained,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Open Summonses - Active For-Hire-Vehicle (FHV) Drivers,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Open Summonses - Active For-Hire-Vehicle (FHV) Owners,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Paratransit Bases,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Paratransit Drivers,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Paratransit Services - Bases,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Paratransit Vehicles,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),SHL Vehicle Endorsed bases,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),SHL Vehicles – Meter-shops,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),SHL Vehicles Authorized,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Street Hail Livery Drivers - Active,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),TLC Community Car Service Bases,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),TLC Commuter Van Authorizations,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),TLC Luxury Limousine Bases,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Trained Medallion Drivers,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Yellow Medallion Taxicabs - Drivers,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Yellow Medallion Taxicabs - Drivers Who Have Completed Passenger Assistance Training,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Yellow Medallion Taxicabs - Vehicles,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),Medallion  Vehicles - Authorized,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Taxi and Limousine Commission (TLC),TLC Taxi Data,"This dataset is either outdated, duplicative, and contains data that can be found in a current dataset on the OpenData Portal"
+Department of Housing and Preservation (HPD),HPD Rent Affordability Element,This data is available via HPD Local Law 44 data collection
+Department of Housing and Preservation (HPD),HPD Project Element,This data is available via HPD Local Law 44 data collection
+Department of Housing and Preservation (HPD),HPD Project Building Element,This data is available via HPD Local Law 44 data collection
+Department of Housing and Preservation (HPD),HPD Unit Income Rent Element,This data is available via HPD Local Law 44 data collection
+Department of Housing and Preservation (HPD),HPD Tax Incentive Element,This data is available via HPD Local Law 44 data collection
+Department of Housing and Preservation (HPD),HPD Development Team Element,This data is available via HPD Local Law 44 data collection
+Department of Housing and Preservation (HPD),HPD LIHTC Element,This data is available via HPD Local Law 44 data collection
+Department of Housing and Preservation (HPD),HPD Other City Financial Assistance Element,This data is available via HPD Local Law 44 data collection
+Department of Housing and Preservation (HPD),HPD Developer Section Element,This data is available via HPD Local Law 44 data collection
+Department of Housing and Preservation (HPD),HPD Fund Element,This data is available via HPD Local Law 44 data collection
+Department of Environmental Protection (DEP),Acceptable Double Check Detector Assemblies,"Not a regulary maintained or recorded dataset or chart of metrics, measurements, transactions, and/or determinations related to the mission or performance of the agency."
+Department of Environmental Protection (DEP),Acceptable Double Check Valve Assemblies,"Not a regulary maintained or recorded dataset or chart of metrics, measurements, transactions, and/or determinations related to the mission or performance of the agency."
+Department of Environmental Protection (DEP),Acceptable Reduced Pressure Detector Assemblies,"Not a regulary maintained or recorded dataset or chart of metrics, measurements, transactions, and/or determinations related to the mission or performance of the agency."
+Department of Environmental Protection (DEP),Acceptable Reduced Pressure Zone Devices,"Not a regulary maintained or recorded dataset or chart of metrics, measurements, transactions, and/or determinations related to the mission or performance of the agency."
+Department of Environmental Protection (DEP),Basin Town County 2010,Table of geographical statistics of towns in and around the Watershed that is not regularly maintained.
+Department of Environmental Protection (DEP),Catch Basin Inspection and Cleaning Activity,"This is soley data which was obtained from an annual report, not a regularly maintained dataset."
+Department of Environmental Protection (DEP),CCR Annual Report,"This is soley data which was obtained from an annual report, not a regularly maintained dataset."
+Department of Environmental Protection (DEP),CCR Annual Report,"This is soley data which was obtained from an annual report, not a regularly maintained dataset."
+Department of Environmental Protection (DEP),Communities potentially eligible for Community Wastewater Management Program funds,One-time list developed as part of the Watershed MOA. Not a regularly maintained dataset.
+Department of Environmental Protection (DEP),DEP -  Bureau of Wastewater Treatment (BWT) – 2010 Nuisance Complaints,A subset of a dataset maintained by 311 of service requests.
+Department of Environmental Protection (DEP),DEP -  Bureau of Wastewater Treatment (BWT) – 2011 Nuisance Complaints,A subset of a dataset maintained by 311 of service requests.
+Department of Environmental Protection (DEP),DEP CPR Critical Indicators,Not owned by DEP. Maintained by the Mayor's Office of Operations.
+Department of Environmental Protection (DEP),DEP Green Infrastructure,An updated and regularly maintained version of this dataset appears on Open Data.
+Department of Environmental Protection (DEP),DEP: CPR Data from July 2001 through June 2011,Not owned by DEP. Maintained by the Mayor's Office of Operations.
+Department of Environmental Protection (DEP),Drought Regulation Penalty Schedule,"Not a regulary maintained or recorded metric, measurement, transaction, or determination related to the mission or performance of the agency."
+Department of Environmental Protection (DEP),Hose Nozzle And Sprayer Survey,"Not a regulary maintained or recorded metric, measurement, transaction, or determination related to the mission or performance of the agency."
+Department of Environmental Protection (DEP),Hydrostats,Geographical statistics about the streams and reservoirs of the Watershed. Not regularly maintained.
+Department of Environmental Protection (DEP),Lead Kit Requests,A subset of a dataset maintained by 311 of service requests.
+Department of Environmental Protection (DEP),Leaks And Their Costs,"Not a regulary maintained or recorded dataset or chart of metrics, measurements, transactions, and/or determinations related to the mission or performance of the agency."
+Department of Environmental Protection (DEP),Reservoir Characteristics,Geographical statistics about the NYC water supply reservoirs. Not regularly maintained.
+Department of Environmental Protection (DEP),Residential Water Use,"Not a regulary maintained or recorded dataset or chart of metrics, measurements, transactions, and/or determinations related to the mission or performance of the agency."
+Department of Environmental Protection (DEP),School Monitoring Data,Historical dataset air quality. Not regularly maintained.
+Department of Environmental Protection (DEP),Wastewater Treatment Plant Data,Statistical data about NYC's wastewater treatment facilities. Not regularly maintained.
+Department of Environmental Protection (DEP),Wastewater Treatment Plants,Statistical data about NYC's wastewater treatment facilities. Not regularly maintained.
+Department of Environmental Protection (DEP),Water Quality complaints,Not owned by DEP. It is a filtered view of a 311 dataset.
+Department of Environmental Protection (DEP),Water Use Restrictions - Summary of 15 RCNY Chapters 20 and 21,"Not a regulary maintained or recorded dataset or chart of metrics, measurements, transactions, and/or determinations related to the mission or performance of the agency."
+Department of Environmental Protection (DEP),Watershed statistics,Geological statistics about the watershed surface. Not regularly updated.
+Department of Environmental Protection (DEP),Watershed statistics,Table of geographical statistics of towns in and around the Watershed that is not regularly maintained.
+Mayor’s Office of Management & Budget (OMB),Capital Commitments--Prel\Adpt,This data can be found in Capital Commitment Plan at the URL: https://data.cityofnewyork.us/City-Government/Capital-Commitment-Plan/2cmn-uidm. This new dataset replaced “Capital Commitments—Prel\Adpt” and “Capital Commitments—Exec” in open data portal. All historical data in these two datasets have been merged in this new created dataset.
+Mayor’s Office of Management & Budget (OMB),Capital Commitments -- Exec,This data can be found in Capital Commitment Plan at the URL: https://data.cityofnewyork.us/City-Government/Capital-Commitment-Plan/2cmn-uidm. This new dataset replaced “Capital Commitments—Prel\Adpt” and “Capital Commitments—Exec” in open data portal. All historical data in these two datasets have been merged in this new created dataset.
+Department of Transportation (DOT),Bicycle Network Connectivity Index,"Related data, Bike Routes and Bike Counts, are already on the Portal."
+Department of Transportation (DOT),Real-Time Traffic Speed Data,This dataset is no longer maintained. This data can be found in  https://data.cityofnewyork.us/Transportation/DOT-Traffic-Speeds-NBE/8tdh-66hm and https://data.cityofnewyork.us/Transportation/Real-Time-Traffic-Speed-Data/qkm5-nuaq
+Department of Sanitation (DSNY),DSNY's Refuse and Recycling Disposal Networks,This dataset contains out of date information and has been updated with two new spatial datasets which will be updated monthly:  DSNY Disposal Vendors and  DSNY Districts with Disposal Vendor Assignments

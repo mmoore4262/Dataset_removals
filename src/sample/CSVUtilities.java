@@ -1,7 +1,5 @@
 package sample;
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -11,31 +9,47 @@ import java.util.List;
 
 public class CSVUtilities {
 
-        //List<String> books = readstuffFromCSV("Dataset_Removals.csv");
+
         ArrayList<String> CSVData;
+
         int numColumns;
 
         public CSVUtilities(File csv)
         {
-                List<String> books = new ArrayList<>();
-                Path pathToFile= Paths.get(csv);
+               String csvFile="Dataset_Removals.csv";
+               BufferedReader br= null;
+               String line="";
+               String cvsSplitBy=",";
 
-                try (BufferedReader br = Files.newBufferedReader(pathToFile,
-                        StandardCharsets.US_ASCII)) {
+               try
+               {
+                       br= new BufferedReader(new FileReader(csvFile));
+                       while ((line = br.readLine()) != null) {
+                               String[] agency= line.split(cvsSplitBy);
+                               System.out.println("Agency Name"+ agency[0]);
+                       }
 
-                        // read the first line from the text file
-                        String line = br.readLine();
+               }
+               catch (FileNotFoundException e) {
+                       e.printStackTrace();
+               } catch (IOException e) {
+                       e.printStackTrace();
+               }
+               finally
+               {
+                       if (br != null)
+                       {
+                               try {
+                                       br.close();
+                               } catch (IOException e) {
+                                       e.printStackTrace();
+                               }
+                       }
 
-
-                        String CSVData=
-                }
-
-
-        }
-
-        public List<String> getColumnHeaders()
+        /*public List<String> getColumnHeaders()
         {
               return
+        }*/
+               }
         }
-
 }
